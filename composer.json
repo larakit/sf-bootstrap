@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-bootstrap",
+    "description": "sf-bootstrap",
+    "license": "MIT",
+    "version": "3.3.6",
+    "require": {
+        "larakit/sf-jquery": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
