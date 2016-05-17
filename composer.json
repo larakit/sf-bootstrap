@@ -1,6 +1,13 @@
 {
     "name": "larakit/sf-bootstrap",
     "description": "sf-bootstrap",
+    "keywords": [
+        "larakit",
+        "laravel",
+        "laravel 5",
+        "bootstrap",
+        "lk-staticfiles"
+    ],      
     "license": "MIT",
     "version": "3.3.6",
     "require": {
