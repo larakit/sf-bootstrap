@@ -1,6 +1,6 @@
 <?php
 \Larakit\StaticFiles\Manager::package('larakit/sf-bootstrap')
-    ->usePackage('larakit/sf-jquery')
     ->setSourceDir('public')
+    ->usePackage('larakit/sf-jquery')
     ->jsPackage('bootstrap.min.js')
     ->cssPackage('bootstrap.min.css');
